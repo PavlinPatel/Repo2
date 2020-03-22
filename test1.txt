@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 60B7-8E5D
+
+ Directory of C:\PAVLIN\PROJECTS\gitProject\MyProject
+
+03/22/2020  03:53 PM    <DIR>          .
+03/22/2020  03:53 PM    <DIR>          ..
+03/22/2020  03:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  132,822,786,048 bytes free
